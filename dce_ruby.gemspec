@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["contact@ivanpolchenko.com"]
 
   spec.summary       = %q{Ruby client for Schneider Data Center Expert Web Services API}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/i5okie/dce_ruby"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
